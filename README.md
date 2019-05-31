@@ -1,4 +1,4 @@
-# Auditing Elasticsearch Driver
+# Auditing Elasticsearch Driver Lumen 5.8
 
 [![Latest Unstable Version](https://poser.pugx.org/iconscout/laravel-auditing-elasticsearch/v/unstable)](https://packagist.org/packages/iconscout/laravel-auditing-elasticsearch) [![Total Downloads](https://poser.pugx.org/iconscout/laravel-auditing-elasticsearch/downloads)](https://packagist.org/packages/iconscout/laravel-auditing-elasticsearch) [![License](https://poser.pugx.org/iconscout/laravel-auditing-elasticsearch/license)](https://packagist.org/packages/iconscout/laravel-auditing-elasticsearch)
 
@@ -18,7 +18,7 @@ This driver requires that you are using `owen-it/laravel-auditing: ^7.0`. Provid
 you can install the driver like so:
 
 ```
-composer require iconscout/laravel-auditing-elasticsearch
+composer require cuatao/laravel-auditing-elasticsearch
 ```
 
 ## Setup
