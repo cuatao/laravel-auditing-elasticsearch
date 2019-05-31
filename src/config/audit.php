@@ -37,6 +37,9 @@ return [
         'primary_key' => 'id',
         'foreign_key' => 'user_id',
         'model'       => App\Models\User::class,
+        'guards'       => [
+            'api',
+        ],
     ],
 
     /*
